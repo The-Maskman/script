@@ -1,5 +1,5 @@
 #! /bin/bash
-printf 'Script Loaded !!'
+printf 'Script Loaded !!\n'
 printf "RDP installing... " >&2
 {
 sudo useradd -m CLOUD
