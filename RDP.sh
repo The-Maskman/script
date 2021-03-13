@@ -24,6 +24,7 @@ sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y 
 sudo apt install firefox -y
 sudo apt install xfce4-terminal -y
+sudo apt-get remove gnome-terminal -y
 #sudo apt install obs-studio -y
 sudo adduser CLOUD chrome-remote-desktop
 } &> /dev/null &&
